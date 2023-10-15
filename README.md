@@ -12,7 +12,7 @@ _Dreams to build a user-friendly application framework_
 #### Contact
 - Discord: @kevin0216_owo
 - Email: [kevin0216@kevin0216.us](mailto:kevin0216@kevin0216.us)
-- Linkedin: [in/kevinowo](www.linkedin.com/in/kevinowo)
+- Linkedin: [in/kevinowo](https://www.linkedin.com/in/kevinowo)
 
 ## Projects
 ### TKablent
