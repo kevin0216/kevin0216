@@ -45,10 +45,14 @@ With clock and countdown for current subject.
 - C++
 - TypeScript
 
-## Attended Events
+## Attended Contests
 #### 中區學科能力競試 / 資訊組 - 參與複賽 - Taichung, Taiwan
 #### 優學台中 / 自主學習發表會 (台中二區) - 獲選至全區發表 - Taichung, Taiwan
 - Associated Projects: **TKablent**
 #### 優學台中 / 自主學習發表會 (台中全區) - Taichung, Taiwan
 - Associated Projects: **TKablent**
 #### 112年度資安技能金盾 - 參與初賽 - New Taipei City, Taiwan
+#### 112年度資安技能金盾 - 決賽 - 第一名 - New Taipei City, Taiwan
+
+## Attended Events
+#### 2023 SITCON HoC 雲林場 - 助教
