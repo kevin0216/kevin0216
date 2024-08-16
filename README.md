@@ -4,9 +4,9 @@
 _Dreams to build a user-friendly application framework_
 
 #### I'm
-- :birthday: 17 years old
+- :birthday: 18 years old
 - :taiwan: a Taiwanese
-- :student: a Senior High School Student
+- :student: a Senior High School --> NCKU CSIE Student
 - :keyboard: a Web Application Developer
 
 #### Contact
@@ -19,8 +19,13 @@ _Dreams to build a user-friendly application framework_
 #### A Python-based Music Discord Bot
 A Discord bot that focused on sharing and streaming music with your friends in the same chat room  
 With easy-to-use user interfaces, no more typing commands on your small phone screen  
-Currently used by more than 800 servers (approx. 40000+ users)  
-_* More feature implementations are under considering_  
+Currently used by more than 1200 servers (approx. 70000+ users)  
+**Highlighted Features:**
+- Touch-based control interface
+- Multi choice for search result is supported
+- Supporting for song auto suggestion
+- Discord server based favorite suggestion system
+- and more...
 [>> Learn more](https://github.com/TK-Entertainment/tkablent_music)
 
 ### exam-clock (Collab w/[@smitug01](https://github.com/smitug01))
@@ -56,3 +61,9 @@ With clock and countdown for current subject.
 
 ## Attended Events
 #### 2023 SITCON HoC 雲林場 - 助教
+#### 2023 SITCON - 會眾
+#### 2024 TILEA 一日資訊體驗營 / 雲林場 - 攝影兼助教
+#### 2024 TILEA 一日資訊體驗營 / 台南場 - 攝影兼助教
+#### 2024 TILEA 一日資訊體驗營 / 台北場 - 攝影兼助教
+#### 2024 TILEA 一日資訊體驗營 / 台中場 - 攝影兼助教
+#### 2024 TILEA 一日資訊體驗營 / 宜花東場 - 攝影兼助教
