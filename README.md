@@ -51,13 +51,17 @@ With clock and countdown for current subject.
 - TypeScript
 
 ## Attended Contests
-#### 中區學科能力競試 / 資訊組 - 參與複賽 - Taichung, Taiwan
-#### 優學台中 / 自主學習發表會 (台中二區) - 獲選至全區發表 - Taichung, Taiwan
+### 競程 Competitive Programming
+#### 中區學科能力競試 / 資訊組 - 參與複賽 - Taichung City, Taiwan
+### 專案開發 Project Developing
+#### 優學台中 / 自主學習發表會 (台中二區) - 獲選至全區發表 - Taichung City, Taiwan
 - Associated Projects: **TKablent**
-#### 優學台中 / 自主學習發表會 (台中全區) - Taichung, Taiwan
+#### 優學台中 / 自主學習發表會 (台中全區) - Taichung City, Taiwan
 - Associated Projects: **TKablent**
+### 資安 Cybersecurity
 #### 112年度資安技能金盾 - 參與初賽 - New Taipei City, Taiwan
 #### 112年度資安技能金盾 - 決賽 - 第一名 - New Taipei City, Taiwan
+#### AIS3 EOF 2025 - 決賽 - 最佳藍色小精靈 - Taichung City, Taiwan
 
 ## Attended Events
 #### 2023 SITCON HoC 雲林場 - 助教
