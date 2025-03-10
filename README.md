@@ -61,9 +61,10 @@ With clock and countdown for current subject.
 
 ## Attended Events
 #### 2023 SITCON HoC 雲林場 - 助教
-#### 2023 SITCON - 會眾
+#### 2024 SITCON - 會眾
 #### 2024 TILEA 一日資訊體驗營 / 雲林場 - 攝影兼助教
 #### 2024 TILEA 一日資訊體驗營 / 台南場 - 攝影兼助教
 #### 2024 TILEA 一日資訊體驗營 / 台北場 - 攝影兼助教
 #### 2024 TILEA 一日資訊體驗營 / 台中場 - 攝影兼助教
 #### 2024 TILEA 一日資訊體驗營 / 宜花東場 - 攝影兼助教
+#### 2025 SITCON - 開發組 - 組員
