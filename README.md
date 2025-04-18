@@ -47,7 +47,7 @@ With clock and countdown for current subject.
 [![My Skills](https://skillicons.dev/icons?i=py,ts,react,nextjs,tailwind,)](https://skillicons.dev)
   
 #### Starter/Know how to use
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,nodejs,java,vue)](https://skillicons.dev)
 
 ## Attended Contests
 ### 競程 Competitive Programming
