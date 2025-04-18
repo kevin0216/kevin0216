@@ -44,11 +44,10 @@ With clock and countdown for current subject.
 
 ## Preferred Programming Language
 #### Advanced/Familiar with
-- Python
+[![My Skills](https://skillicons.dev/icons?i=py,ts,react,nextjs,tailwind,)](https://skillicons.dev)
   
 #### Starter/Know how to use
-- C++
-- TypeScript
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,vue)](https://skillicons.dev)
 
 ## Attended Contests
 ### 競程 Competitive Programming
